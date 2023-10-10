@@ -1,8 +1,10 @@
 ---
-title: "[Secretary] Pawan Shah"
+title: "Pawan Shah"
+designation: "Secretary"
 email: 077bei025@ioepc.edu.np
 image: "/images/avatars/pawan_sq.png"
 description: Secretary
+weight: 2
 social:
   - name: github
     icon: fa-brands fa-github

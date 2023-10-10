@@ -1,8 +1,10 @@
 ---
-title: "[Coordinator] Sushant Shah"
+title: "Sushant Shah"
+designation: "Coordinator"
 email: sushant076@ioepc.edu.np
 image: "/images/avatars/sushant_sq.png"
 description: Coordinator
+weight: 1
 social:
   - name: github
     icon: fa-brands fa-github

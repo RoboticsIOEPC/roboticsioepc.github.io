@@ -1,8 +1,10 @@
 ---
-title: "[Web] Spandan Guragain"
+title: "Spandan Guragain"
+designation: "W. Executive Member"
 email: 078bct086@ioepc.edu.np
 image: "/images/avatars/spandan_sq.png"
 description: Executive Member
+weight: 4
 social:
   - name: github
     icon: fa-brands fa-github

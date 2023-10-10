@@ -13,12 +13,17 @@ testimonials:
   - name: "Sushant Shah"
     designation: "Coordinator"
     avatar: "/images/testimonials/sushant.png"
-    content: "As the coordinator of the Robotics Club at IOE Purwanchal Campus, I'm proud to lead this dynamic group of students. Our focus is on making robotics accessible and enjoyable for all. Over the years, we've nurtured a vibrant community of robotics enthusiasts who not only learn but also compete nationally and internationally. It's been a fulfilling journey, and we're excited to continue inspiring and educating future generations in the field of robotics"
+    content: "As the coordinator of the Robotics Club at IOE Purwanchal Campus, I'm proud to lead this dynamic group of students. Our focus is on making robotics accessible and enjoyable for all. Over the years, we've nurtured a vibrant community of robotics enthusiasts who not only learn but also compete nationally and internationally. It's been a fulfilling journey."
 
   - name: "Saroj Baniya"
     designation: "Regular Contributor"
     avatar: "/images/testimonials/saroj.png"
     content: "Robotics Club at IOE Purwanchal Campus has been able to inspire a lot of Robotics Enthusiasts. It has build a community of robotics enthusiasts, helped a lot of individuals to explore the field of robotics. And I am glad to be the part of its community"
+
+  - name: "Sneha Katwal"
+    designation: "Regular Contributor"
+    avatar: "/images/testimonials/sneha.png"
+    content: "The Robotics Club at IOE Purwanchal Campus has provided a highly developed platform, expert guidance, and a dynamic learning environment. The club's mentoring environment, combined with the support of a very good network of members and advisors, has been essential in enhancing idea generation and personal growth. I am forever thankful for the experience and the opportunity it provided to fine-tune my technical skills."
 
   - name: "Kendra Pokhrel"
     designation: "Regular Contributor"

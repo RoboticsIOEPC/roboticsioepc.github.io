@@ -37,7 +37,7 @@ features:
       - "Trainings and Workshops"
     button:
       enable: true
-      label: "See for yourself"
+      label: "See what we are building"
       link: "/categories/projects/"
 
   - title: "Achievements"

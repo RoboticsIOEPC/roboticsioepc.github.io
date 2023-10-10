@@ -1,8 +1,10 @@
 ---
 title: Rudra Khatri
+designation: "Executive Member"
 email: 078bei031@student.ioepc.edu.np
 image: "/images/avatars/roshan_sq.png"
 description: Executive Member
+weight: 7
 social:
   - name: facebook
     icon: fa-brands fa-facebook

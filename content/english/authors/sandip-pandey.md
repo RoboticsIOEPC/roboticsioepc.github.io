@@ -1,8 +1,10 @@
 ---
-title: "[Treasurer] Sandip Pandey"
+title: "Sandip Pandey"
+designation: "Treasurer"
 email: 077bme079@ioepc.edu.np
 image: "/images/avatars/sandip_sq.png"
 description: Treasurer
+weight: 3
 social:
   - name: facebook
     icon: fa-brands fa-facebook

@@ -22,7 +22,7 @@ url = "blog/"
 weight = 4
 
 [[main]]
-name = "Pages"
+name = "More"
 hasChildren = true
 
 # [[main]]
@@ -31,13 +31,13 @@ hasChildren = true
 # url = "elements/"
 
 [[main]]
-parent = "Pages"
+parent = "More"
 name = "Contact"
 url = "contact/"
 
 [[main]]
-parent = "Pages"
-name = "Conduct"
+parent = "More"
+name = "Project Terms"
 url = "code/"
 
 # [[main]]
@@ -46,7 +46,7 @@ url = "code/"
 # url = "authors/"
 
 [[main]]
-parent = "Pages"
+parent = "More"
 name = "Categories"
 url = "categories/"
 
@@ -63,7 +63,7 @@ url = "about/"
 weight = 1
 
 [[footer]]
-name = "Conduct"
+name = "Project Terms"
 url = "code/"
 weight = 2
 
