@@ -51,12 +51,12 @@ document.getElementById('submit-button').addEventListener('click', function () {
   const name = document.getElementById('name').value;
   const email = document.getElementById('email').value;
   const message = document.getElementById('message').value;
-  const subject = `Mail from Robosite by ${name}`;
+  const subject = `Mail by ${name} via Robosite`;
   const body = `Email from: ${email}
 
 ${message}
 
-Pss.. ${name} visited your website.
+Pss.. ${name} visited Robosite.
 `;
   const mailtoLink = `mailto:robotics@ioepc.edu.np?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
   window.location.href = mailtoLink;
