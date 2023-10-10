@@ -3,7 +3,7 @@ title: "Completion of 7-Days Workshop on Robotics & Automation"
 meta_title: ""
 description: "ROBOTICS CLUB-Purwanchal Campus is excited to announce successful completion of 7-Days Workshop on Robotics & Automation!🙌"
 date: 2023-07-11
-image: "images/gallery/11_july_workshop/workshop1.jpg"
+image: "images/gallery/11_july_workshop/workshop1.png"
 categories: ["Activities"]
 author: "Spandan Guragain"
 tags: ["workshops"]
