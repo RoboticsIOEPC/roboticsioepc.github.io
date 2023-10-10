@@ -52,7 +52,7 @@ document.getElementById('submit-button').addEventListener('click', function () {
   const email = document.getElementById('email').value;
   const message = document.getElementById('message').value;
   const subject = `Mail from Robosite by ${name}`;
-  const body = `Email: ${email}%0A%0A${message}%0A%0AAdditional content goes here.`;
+  const body = `Email: ${email}%0D%0A%0D%0AMessage:%0D%0A${message}`;
   const mailtoLink = `mailto:robotics@ioepc.edu.np?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
   window.location.href = mailtoLink;
 });
