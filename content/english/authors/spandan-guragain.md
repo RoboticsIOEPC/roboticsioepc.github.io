@@ -1,6 +1,6 @@
 ---
 title: "Spandan Guragain"
-designation: "W. Executive Member"
+designation: "Executive Member"
 email: 078bct086@ioepc.edu.np
 image: "/images/avatars/spandan_sq.png"
 description: Executive Member
