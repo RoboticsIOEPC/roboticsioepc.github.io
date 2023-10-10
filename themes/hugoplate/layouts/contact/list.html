@@ -53,7 +53,7 @@ document.getElementById('submit-button').addEventListener('click', function () {
   const message = document.getElementById('message').value;
   const subject = `Mail for web by ${name}`;
   const body = `Email: ${email}%0A%0A${message}%0A%0AAdditional content goes here.`;
-  const mailtoLink = `mailto:your-email@example.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+  const mailtoLink = `mailto:robotics@ioepc.edu.np?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
   window.location.href = mailtoLink;
 });
 </script>
