@@ -7,7 +7,7 @@
   function initTestimonialSlider() {
     testimonialSlider = new Swiper(".testimonial-slider", {
       spaceBetween: 24,
-      loop: true,
+      loop: true, // Allow loop on all screen sizes
       pagination: {
         el: ".testimonial-slider-pagination",
         type: "bullets",
@@ -24,6 +24,7 @@
       autoplay: {
         delay: 2000, // Adjust this value for the speed of auto-sliding
       },
+      allowTouchMove: true, // Allow touch interaction
     });
 
     // Add mouseenter and mouseleave event listeners to individual slides
@@ -38,22 +39,16 @@
     });
   }
 
-  // Check if it's a desktop screen and initialize the slider
-  if (window.innerWidth >= 992) {
-    initTestimonialSlider();
-  }
+  // Initialize the slider for all screen sizes
+  initTestimonialSlider();
 
   // Listen for window resize events
   window.addEventListener("resize", () => {
-    if (window.innerWidth >= 992) {
-      if (!testimonialSlider) {
-        initTestimonialSlider();
-      }
-    } else {
-      if (testimonialSlider) {
-        testimonialSlider.destroy();
-        testimonialSlider = undefined;
-      }
+    // Reinitialize the slider on window resize
+    if (testimonialSlider) {
+      testimonialSlider.destroy();
+      testimonialSlider = undefined;
     }
+    initTestimonialSlider();
   });
 })();
