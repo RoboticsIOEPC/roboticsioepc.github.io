@@ -1,0 +1,29 @@
+{
+  "main": [
+    {
+      "name": "facebook",
+      "icon": "fab fa-facebook",
+      "link": "https://www.facebook.com/purwanchalrobotics/"
+    },
+    {
+      "name": "discord",
+      "icon": "fab fa-discord",
+      "link": "https://discord.gg/Z7epqXrETk"
+    },
+    {
+      "name": "github",
+      "icon": "fab fa-github",
+      "link": "https://github.com/RoboticsIOEPC"
+    },
+    {
+      "name": "linkedin",
+      "icon": "fab fa-linkedin",
+      "link": "https://www.linkedin.com/company/roboticsclubioepc/"
+    },
+    {
+      "name": "instagram",
+      "icon": "fab fa-instagram",
+      "link": "https://www.instagram.com/robotics_ioepc/"
+    }
+  ]
+}
