@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 # The base URL of your site (required). This will be prepended to all relative URLs.
 # baseURL = "https://roboticsioepc.github.io"
-baseURL = "https://robotics.ioepc.edu.np"
+baseURL = "https://roboticsioepc.github.io"
 # Title of your website (required).
 title = "Robotics Club"
 # Your theme name
