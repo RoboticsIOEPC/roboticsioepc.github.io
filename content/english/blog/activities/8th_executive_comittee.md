@@ -3,7 +3,7 @@ title: "8th Executive Comittee"
 meta_title: ""
 description: "We are pleased to introduce the talented individuals who will be leading the Robotics Club Purwanchal Campus, Dharan to new heights. Their dedication and expertise will ensure a successful tenure for the Club."
 date: 2023-05-29
-image: "images/gallery/8th_executive_comittee.jpg"
+image: "images/gallery/8th_executive_comittee.png"
 categories: ["Activities"]
 author: "Spandan Guragain"
 tags: ["reformations"]
