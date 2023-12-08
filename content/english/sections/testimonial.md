@@ -15,6 +15,11 @@ testimonials:
     avatar: "/images/testimonials/sushant.png"
     content: "As the coordinator of the Robotics Club at IOE Purwanchal Campus, I'm proud to lead this dynamic group of students. Our focus is on making robotics accessible and enjoyable for all. Over the years, we've nurtured a vibrant community of robotics enthusiasts who not only learn but also compete nationally and internationally. It's been a fulfilling journey."
 
+  - name: "Suraj Bhattarai"
+    designation: "Regular Contributor"
+    avatar: "/images/testimonials/suraj.png"
+    content: "It's always around teamwork, learning and growth when it comes to Robotics Club at IOEPC. From automation to Complex Control and Logic configuration; the diversity on ROS to Gate Control is amazing, I could learn altogether with some excellent minds."
+
   - name: "Saroj Baniya"
     designation: "Regular Contributor"
     avatar: "/images/testimonials/saroj.png"
