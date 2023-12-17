@@ -2,7 +2,7 @@
 # The base URL of your site (required). This will be prepended to all relative URLs.
 # baseURL = "https://roboticsioepc.github.io"
 # baseURL = "https://robotics.ioepc.edu.np/"
-baseURL = "https://resonant-sunflower-a318f0.netlify.app"
+baseURL = "https://roboticsioepc.netlify.app"
 # Title of your website (required).
 title = "Robotics Club"
 # Your theme name
