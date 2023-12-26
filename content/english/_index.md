@@ -6,8 +6,8 @@ banner:
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Register"
-    link: "/closed"
+    label: "LaTeX Workshop Registration"
+    link: "https://docs.google.com/forms/d/e/1FAIpQLSfrnqzc9My6Ysw9ZrsiPCIgel4Z7ayoJO58D1O_8G8896i7aA/viewform"
 
 # Features
 features:
