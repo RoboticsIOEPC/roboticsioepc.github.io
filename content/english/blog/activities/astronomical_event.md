@@ -7,29 +7,19 @@ image: "images/gallery/astronomical_event/01.png"
 categories: ["Activities"]
 author: "Spandan Guragain"
 tags: ["astronomy","activities"]
-draft: true
+draft: false
 ---
 
-1. Solar Observation:
-- Witnessed the mesmerizing dance of sunspots on the solar surface.
-- Morning and afternoon sessions for an in-depth exploration.
+Astronomical Outreach Program was organized by Robotics Club, IOE Purwanchal Campus Dharan on December 24th, Sunday. A kick-start for embarking on a celestial journey with astronomical exploration program. This event marks the dawn of an exciting era in the pursuit of astronomy and space science within the campus. Our observation program was designed to kindle the curiosity of students, faculty, and enthusiasts alike.
 
-2. Lunar Observation:
-- Explored the Moon's craters and features during the early evening session.
+Major highlights were
+1. Solar Observation: - Witnessed the mesmerizing dance of sunspots on the solar surface. - Morning and afternoon sessions for an in-depth exploration.
+2. Lunar Observation: - Explored the Moon's craters and features during the early evening session.
+3. Night Sky Observation: - Caught a glimpse of the majestic gas giant, Jupiter, with its intricate cloud bands also its moons. Our Gibbous Moon, and the rings of Saturn.
 
-3. Night Sky Observation:
-- A glimpse of the majestic gas giant, Jupiter, with its intricate cloud bands also its moons.
-- The gibbous moon, flourishing its beauty.
-- Observed the ringed beauty, Saturn.
+Special thanks to Our beloved senior Himal Bhandari for the warmest support. And Kendra Pokhrel, Suman Khatri, Anusha Shrestha, Anuja Neupane and Suwarna Pyakurel for the valuable contribution. 
 
-Telescope Technology:
-Our observation sessions utilized advanced telescopes, including Newtonian (Refractor) and Cassegrain telescopes, offering unparalleled views of the celestial wonders.
-
-Guided Sessions:
-Led by experienced telescope handlers and accomplished enthusiasts and volunteers of Nepal Astronomical Society (NASO) and members of Robotics Club IOE Purwanchal Campus, and our respected senior Mr. Himal Bhandari, the observation sessions provided valuable insights and expert guidance. Whether you are a seasoned astronomer or a novice, our team was here to enhance your celestial experience.
-
-Igniting the Spark:
-This event serves as the inaugural step in our astronomy and space science endeavors. The Robotics Club invites you to delve into the mysteries of the universe, fostering a passion for exploration and knowledge.
+This is the ignition of Astronomy and Space science activities from Robotics Club. We are marching towards research and innovations, and soon we will release exciting events and innovations.
 
 {{< gallery dir="images/gallery/astronomical_event" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
 

@@ -6,8 +6,10 @@ banner:
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Register for LaTeX Workshop"
-    link: "/open"
+    label: "Register"
+    link: "/closed"
+    # label: "Register for LaTeX Workshop"
+    # link: "/open"
 
 # Features
 features:
