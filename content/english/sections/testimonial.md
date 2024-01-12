@@ -35,6 +35,11 @@ testimonials:
     avatar: "/images/testimonials/kendra.jpg"
     content: "The Robotics Club at IOE Purwanchal Campus is awesome! They teach robotics in a fun way with real-life examples. I've learned a lot since I joined and even got to compete in a national event."
 
+  - name: "Utsarga Bikram Shah"
+    designation: "Regular Contributor"
+    avatar: "/images/testimonials/utsarga.png"
+    content: "The Robotics Club at IOE Purwanchal Campus offers an excellent learning platform, emphasizing practicality in robotics encompassing mechanical, electronics, and computing concepts. The club's commitment to the environmental aspect is noteworthy, evident in the radiation for project work and the seamless execution of concepts into tangible outcomes. For me standardizing such practices have enhanced the overall experience."
+
   - name: "Rishit Jha"
     designation: "Regular Contributor"
     avatar: "/images/testimonials/rishit.png"
