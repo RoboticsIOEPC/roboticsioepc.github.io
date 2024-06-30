@@ -10,8 +10,13 @@ testimonials:
     avatar: "/images/testimonials/dipendra.jpg"
     content: "Robotics Club Purwanchal Campus is a non profit organization within Purwanchal campus, which provides an outstanding platform for students and enthusiasts. Robotics Club is established to promote, educate, explore, and compete in the field of robotics."
 
+  - name: "Spandan Guragain"
+    designation: "Former Executive Member"
+    avatar: "/images/testimonials/spandan.png"
+    content: "In this loving community of like but at the same time unique minded people, I have learned a lot. Be it by watching others do something or trying to improve on what my seniors had built here. The love and guidance I have got is just incomparable to anything else. I will always be honoured to say that I am a part of The Robotics Club"
+
   - name: "Sushant Shah"
-    designation: "Coordinator"
+    designation: "Former Coordinator"
     avatar: "/images/testimonials/sushant.png"
     content: "As the coordinator of the Robotics Club at IOE Purwanchal Campus, I'm proud to lead this dynamic group of students. Our focus is on making robotics accessible and enjoyable for all. Over the years, we've nurtured a vibrant community of robotics enthusiasts who not only learn but also compete nationally and internationally. It's been a fulfilling journey."
 

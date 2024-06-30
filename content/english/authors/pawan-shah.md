@@ -1,10 +1,10 @@
 ---
 title: "Pawan Shah"
-designation: "Secretary"
+designation: "Coordinator"
 email: 077bei025@ioepc.edu.np
 image: "/images/avatars/pawan_sq.png"
-description: Secretary
-weight: 2
+description: Coordinator
+weight: 1
 social:
   - name: github
     icon: fa-brands fa-github

@@ -1,10 +1,10 @@
 ---
 title: Naresh Kumar Ray
-designation: "Executive Member"
+designation: "Treasurer"
 email: 078bel027@student.ioepc.edu.np
 image: "/images/avatars/naresh_sq.png"
-description: Executive Member
-weight: 6
+description: Treasurer
+weight: 3
 social:
   - name: facebook
     icon: fa-brands fa-facebook

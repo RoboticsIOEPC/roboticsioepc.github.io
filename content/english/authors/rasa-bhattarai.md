@@ -1,10 +1,10 @@
 ---
 title: Rasa Bhattarai
-designation: "Executive Member"
+designation: "Secretary"
 email: 078bme057@student.ioepc.edu.np
 image: "/images/avatars/rasa_sq.png"
-description: Executive Member
-weight: 5
+description: Secretary
+weight: 2
 social:
   - name: facebook
     icon: fa-brands fa-facebook
