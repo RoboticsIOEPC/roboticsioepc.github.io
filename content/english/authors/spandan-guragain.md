@@ -15,6 +15,6 @@ social:
 
   - name: website
     icon: fa-brands fa-firefox
-    link: https://gitlab.com/scientiac
+    link: https://scientiac.space
 ---
 
