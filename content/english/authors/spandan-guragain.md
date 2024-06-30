@@ -1,8 +1,7 @@
 ---
-title: "Spandan Guragain"
+title: "scientiac"
 designation: "Author"
-email: spandan@scientiac.space
-image: "/images/avatars/spandan_sq.png"
+email: "spandan@scientiac.space"
 description: Author
 weight: 8
 social:
