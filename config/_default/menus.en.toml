@@ -45,10 +45,10 @@ url = "code/"
 # name = "Members"
 # url = "authors/"
 
-[[main]]
-parent = "More"
-name = "Categories"
-url = "categories/"
+# [[main]]
+# parent = "More"
+# name = "Categories"
+# url = "categories/"
 
 # [[main]]
 # parent = "Pages"
