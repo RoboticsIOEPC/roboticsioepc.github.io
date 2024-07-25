@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "scientiac"
 designation: "Author"
 email: "spandan@scientiac.space"
@@ -16,5 +16,5 @@ social:
   - name: website
     icon: fa-brands fa-firefox
     link: https://scientiac.space
----
+--- -->
 
