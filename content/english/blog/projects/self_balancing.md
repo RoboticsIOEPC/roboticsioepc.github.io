@@ -3,7 +3,7 @@ title: "Analytical and Experimental Approach for Modeling, Simulation and Valida
 meta_title: ""
 description: "A research on imulation and Validation of Two-Wheeled Self-Balancing Robot"
 date: 2023-10-05T05:00:00Z
-image: "/images/avatars/self_balancing.jpg"
+image: "/images/avatars/self_balancing.jpeg"
 categories: ["Projects", "Achievements"]
 author: "Spandan Guragain"
 tags: ["papers"]
