@@ -10,4 +10,4 @@ tags: ["competition"]
 draft: false
 ---
 
-Our club participated in the event 'Robocon' organized by Robotics Club Pulchowk Campus and Center for Applied Research and Development (CARD) in the year 2016. 
+Our club participated in the event 'Robocon' organized by Robotics Club Pulchowk Campus and Center for Applied Research and Development (CARD) in the year 2016.
