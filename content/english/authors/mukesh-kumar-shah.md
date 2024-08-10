@@ -4,7 +4,7 @@ designation: "Executive Member"
 email: 079bei022@ioepc.edu.np
 image: "/images/avatars/rahul.png"
 description: Executive Member
-weight: 7
+weight: 5
 social:
   - name: facebook
     icon: fa-brands fa-facebook
