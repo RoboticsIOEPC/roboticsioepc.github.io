@@ -10,4 +10,4 @@ tags: ["competition"]
 draft: false
 ---
 
-Robotics Association Nepal (RAN) organizes the annual event named YANTRA. In year 2073 B.S. our club has participated in YANTRA 5.0 and shows the great performance in the main event. 
+Our club participated in the event 'Robocon' organized by Robotics Club Pulchowk Campus and Center for Applied Research and Development (CARD) in the year 2016. 
