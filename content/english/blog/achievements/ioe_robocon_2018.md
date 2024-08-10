@@ -10,4 +10,4 @@ tags: ["competition"]
 draft: false
 ---
 
-Robotics Club Pulchowk Campus and Center for Applied Research and Development (CARD) has organized Robocon. Again in year 2018, our club has participated and the theme for Robotic Contest was “UJYALO NEPAL” . Special Thanks To our Mentor ‘Er. Om Prasad Dhakal’, ‘Er. Bhoras Yadav’, ‘FSU Purwanchal Campus’ and Whole ERC Family.
+Robotics Club Pulchowk Campus and Center for Applied Research and Development (CARD) had organized Robocon. Again in year 2018, our club participated in the event. The theme for Robotic Contest was “UJYALO NEPAL”. Special Thanks to our Mentor ‘Er. Om Prasad Dhakal’, ‘Er. Bhoras Yadav’, ‘FSU Purwanchal Campus’ and Whole ERC Family.
