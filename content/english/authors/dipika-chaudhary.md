@@ -4,7 +4,7 @@ designation: "Executive Member"
 email: 080bct028@ioepc.edu.np
 image: "/images/avatars/dipika.png"
 description: Executive Member
-weight: 5
+weight: 7
 social:
   - name: github
     icon: fa-brands fa-github
