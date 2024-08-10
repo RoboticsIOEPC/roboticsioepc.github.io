@@ -10,4 +10,4 @@ tags: ["competition"]
 draft: false
 ---
 
-Robotics Association Nepal (RAN) organizes the annual event named YANTRA. In year 2073 B.S. our club has participated in YANTRA 5.0 and shows the great performance in the main event. 
+Robotics Association Nepal (RAN) organizes an annual event named 'YANTRA'. In year 2073 B.S., our club participated in YANTRA 5.0 and showed the great performance in the main event. 
