@@ -3,7 +3,7 @@ title: "Mini Hardware Hackathon"
 meta_title: ""
 description: "Hackers up for the challenge"
 date: 2024-07-06
-image: "images/gallery/mini-hackathon-81/mini-hackathon-81 (1).jpg"
+image: "images/gallery/mini-hackathon-81/mini-hackathon-81-1.jpg"
 categories: ["Activities"]
 author: "Dipika Chaudhary"
 tags: ["workshops"]

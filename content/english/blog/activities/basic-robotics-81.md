@@ -2,7 +2,7 @@
 title: "Basic Robotics and Microcontroller Boot Camp"
 meta_title: ""
 description: "Taking a step towards the bots."
-date: 2024-05-23
+date: 2024-07-01
 image: "images/gallery/basics-robo-microcontroller-bootcamp-81/brc-81-19.jpg"
 categories: ["Activities"]
 author: "Dipika Chaudhary"
