@@ -2,7 +2,7 @@
 title: " Command Line Interface(CLI) Workshop"
 meta_title: ""
 description: ""
-date: 2024-06-05
+date: 2024-07-05
 image: "images/gallery/CLI/cli-81 (3).jpg"
 categories: ["Activities"]
 author: "Dipika Chaudhary"
