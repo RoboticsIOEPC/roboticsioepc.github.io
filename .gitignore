@@ -1,4 +1,5 @@
 Thumbs.db
+.direnv
 .DS_Store
 .dist
 .tmp
