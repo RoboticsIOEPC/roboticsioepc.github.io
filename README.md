@@ -16,7 +16,7 @@ node # nodejs package and package manager
 ```bash
 curl --proto '=https' --tlsv1.2 -sSf -L https://install.determinate.systems/nix | sh -s -- install
 ```
-2. Go to the  project directory and run `direnv enable`
+2. Go to the  project directory and run `direnv allow`
 
 ## To test in localhost
 Run `hugo serve` and go to the given address. Make changes to the files and save them to see live changes.
