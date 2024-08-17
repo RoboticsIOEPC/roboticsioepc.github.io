@@ -3,6 +3,24 @@ Website of the Robotics Club.
 
 > Built using Hugo Static Site Generator using the [Hugoplate](https://github.com/zeon-studio/hugoplate) theme.
 
+## To setup the Environment
+### Install on generic systems.
+```bash
+go # go language
+hugo # hugo static site generator
+node # nodejs package and package manager
+```
+### In linux/macos using nix
+1. Install nix using determinate system nix installer.
+> Run the following command
+```bash
+curl --proto '=https' --tlsv1.2 -sSf -L https://install.determinate.systems/nix | sh -s -- install
+```
+2. Go to the  project directory and run `direnv enable`
+
+## To test in localhost
+Run `hugo serve` and go to the given address. Make changes to the files and save them to see live changes.
+
 # For Authors
 ## To redirect students to forms for registration:
 1. go to `content/english/` from the base directory.
