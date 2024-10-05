@@ -23,22 +23,22 @@ weight = 4
 
 [[main]]
 name = "More"
-hasChildren = true
-
-# [[main]]
-# parent = "Pages"
-# name = "Elements"
-# url = "elements/"
-
-[[main]]
-parent = "More"
-name = "Contact"
-url = "contact/"
+#hasChildren = true
 
 [[main]]
 parent = "More"
 name = "Project Terms"
 url = "code/"
+
+#[[main]]
+#parent = "More"
+#name = "Contact"
+#url = "contact/"
+
+# [[main]]
+# parent = "Pages"
+# name = "Elements"
+# url = "elements/"
 
 # [[main]]
 # parent = "Pages"
@@ -57,7 +57,17 @@ url = "code/"
 
 
 # footer menu
-# [[footer]]
-# name = "Privacy Policy"
-# url = "privacy-policy/"
-# weight = 3
+#[[footer]]
+#name = "About"
+#url = "about/"
+#weight = 1
+
+#[[footer]]
+#name = "Project Terms"
+#url = "code/"
+#weight = 2
+
+#[[footer]]
+#name = "Privacy Policy"
+#url = "privacy-policy/"
+#weight = 3
