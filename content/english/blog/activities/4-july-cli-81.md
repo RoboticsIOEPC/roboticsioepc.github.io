@@ -10,8 +10,7 @@ tags: ["workshops"]
 draft: false
 ---
 
-Some glimpse of today's workshop on Command Line!
 We are grateful to all of the attendees present in this mini workshop. We had an amazing time diving into the world of CLI, learning about its importance, and mastering essential commands.
 A heartfelt thank you to our dedicated trainers, Spandan  and Kendra Pokhrel , for their invaluable guidance.
 
-{{< gallery dir="images/gallery/CLI" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
+
