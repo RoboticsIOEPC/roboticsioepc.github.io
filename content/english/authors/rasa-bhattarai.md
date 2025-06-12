@@ -2,7 +2,7 @@
 title: Rasa Bhattarai
 designation: "Co-ordinator"
 email: 078bme057@student.ioepc.edu.np
-image: "/images/avatars/Rasa Bhattarai.png"
+image: "/images/avatars/Rasa Bhattarai.jpg"
 description: Co-ordinator
 weight: 1
 social:

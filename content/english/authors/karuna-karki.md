@@ -2,7 +2,7 @@
 title: "Karuna Karki"
 designation: "Executive Member"
 email: 080bct035@ioepc.edu.np
-image: "/images/avatars/Karuna Karki.jng"
+image: "/images/avatars/Karuna Karki.jpg"
 description: Executive Member
 weight: 6
 social:

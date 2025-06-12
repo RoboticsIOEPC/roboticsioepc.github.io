@@ -2,7 +2,7 @@
 title: "Nabin Karki"
 designation: "Executive Member"
 email: 079bme036@ioepc.edu.np
-image: "/images/avatars/Nabin Karki.png"
+image: "/images/avatars/Nabin Karki.jpg"
 description: Executive Member
 weight: 4
 social:

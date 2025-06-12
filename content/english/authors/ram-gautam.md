@@ -2,7 +2,7 @@
 title: Ram Gautam
 designation: "Executive Member"
 email: 080bei032@ioepc.edu.np
-image: "/images/avatars/Ram Gautam.jng"
+image: "/images/avatars/Ram Gautam.jpg"
 description: Executive Member
 weight: 5
 social:

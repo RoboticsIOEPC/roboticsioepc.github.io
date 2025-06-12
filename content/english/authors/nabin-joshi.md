@@ -2,7 +2,7 @@
 title: "Nabin Joshi"
 designation: "Secretary"
 email: 080bct046@ioepc.edu.np
-image: "/images/avatars/Nabin Joshi.jng"
+image: "/images/avatars/Nabin Joshi.jpg"
 description: Secretary
 weight: 2
 social:

@@ -2,7 +2,7 @@
 title: "Dipika Chaudhary"
 designation: "Treasurer"
 email: 080bct028@ioepc.edu.np
-image: "/images/avatars/Dipika Chaudhary.jng"
+image: "/images/avatars/Dipika Chaudhary.jpg"
 description: Treasurer
 weight: 3
 social:

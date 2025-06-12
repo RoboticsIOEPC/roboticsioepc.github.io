@@ -2,7 +2,7 @@
 title: Gaurav Shah
 designation: "Executive Member"
 email: 080bei018@ioepc.edu.np
-image: "/images/avatars/zang2.jng"
+image: "/images/avatars/Gaurav Shah.jpg"
 description: Executive Member
 weight: 7
 social:
