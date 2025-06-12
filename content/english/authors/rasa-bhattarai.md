@@ -1,10 +1,10 @@
 ---
 title: Rasa Bhattarai
-designation: "Secretary"
+designation: "Co-ordinator"
 email: 078bme057@student.ioepc.edu.np
-image: "/images/avatars/rasa_sq.png"
-description: Secretary
-weight: 2
+image: "/images/avatars/Rasa Bhattarai.png"
+description: Co-ordinator
+weight: 1
 social:
   - name: facebook
     icon: fa-brands fa-facebook

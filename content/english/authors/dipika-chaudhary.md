@@ -1,10 +1,10 @@
 ---
 title: "Dipika Chaudhary"
-designation: "Executive Member"
+designation: "Treasurer"
 email: 080bct028@ioepc.edu.np
-image: "/images/avatars/dipika.png"
-description: Executive Member
-weight: 7
+image: "/images/avatars/Dipika Chaudhary.jng"
+description: Treasurer
+weight: 3
 social:
   - name: github
     icon: fa-brands fa-github
