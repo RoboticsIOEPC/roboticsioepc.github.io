@@ -4,10 +4,10 @@ banner:
   title: "Robotics Club, IOEPC, Dharan"
   content: "A non-profit organization on campus that provides a great platform for students and enthusiasts created with the intention of encouraging, teaching, investigating, and competing in the field of robotics."
   image: "/images/banner.png"
-  button:
-    enable: true
-    label: "Register"
-    link: "/closed"
+  #button:
+    #enable: true
+    #label: "Register"
+    #link: "/closed"
     # label: "Register for LaTeX Workshop"
     # link: "/open"
 
