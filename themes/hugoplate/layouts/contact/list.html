@@ -1,0 +1,66 @@
+{{ define "main" }}
+{{ partial "page-header" . }}
+
+<section class="section-sm">
+  <div class="container">
+    <div class="row">
+      <div class="md:col-10 lg:col-6 mx-auto">
+        <form id="contact-form">
+          <div class="mb-6">
+            <label for="name" class="form-label">
+              Full Name <span class="text-red-500">*</span>
+            </label>
+            <input
+              id="name"
+              name="name"
+              class="form-input"
+              placeholder="Ram Nepal"
+              type="text" />
+          </div>
+          <div class="mb-6">
+            <label for="email" class="form-label">
+              Working Mail <span class="text-red-500">*</span>
+            </label>
+            <input
+              id="email"
+              name="email"
+              class="form-input"
+              placeholder="ram.nepal@email.com"
+              type="email" />
+          </div>
+          <div class="mb-6">
+            <label for="message" class="form-label">
+              Your Message <span class="text-red-500">*</span>
+            </label>
+            <textarea
+              id="message"
+              name="message"
+              class="form-input"
+              placeholder="Message goes here..."
+              rows="8"></textarea>
+          </div>
+          <button type="button" class="btn btn-primary" id="submit-button">Submit</button>
+        </form>
+      </div>
+    </div>
+  </div>
+</section>
+
+<script>
+document.getElementById('submit-button').addEventListener('click', function () {
+  const name = document.getElementById('name').value;
+  const email = document.getElementById('email').value;
+  const message = document.getElementById('message').value;
+  const subject = `Mail by ${name} via Robosite`;
+  const body = `Email from: ${email}
+
+${message}
+
+Pss.. ${name} visited Robosite.
+`;
+  const mailtoLink = `mailto:robotics@ioepc.edu.np?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+  window.location.href = mailtoLink;
+});
+</script>
+</div>
+{{ end }}
