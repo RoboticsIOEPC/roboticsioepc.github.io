@@ -2,11 +2,7 @@
 title: "TechnoMorph"
 meta_title: ""
 description: "Taking a step towards the bots."
-<<<<<<< HEAD
 date: 2025-07-07
-=======
-date: 2024-07-07
->>>>>>> aaa2ee07fc21b2d8780a3a6652dfa3ecee8b9d0f
 image: "images/gallery/technomorph/0.jpg"
 categories: ["Activities"]
 author: "Dipika Chaudhary"

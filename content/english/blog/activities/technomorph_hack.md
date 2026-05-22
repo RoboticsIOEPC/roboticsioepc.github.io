@@ -2,11 +2,7 @@
 title: "TechnoMorph Hackathon"
 meta_title: ""
 description: "Hackers up for the challenge"
-<<<<<<< HEAD
 date: 2025-07-28
-=======
-date: 2024-07-28
->>>>>>> aaa2ee07fc21b2d8780a3a6652dfa3ecee8b9d0f
 image: "images/gallery/technomorph_hack/0.jpg"
 categories: ["Activities"]
 author: "Dipika Chaudhary"

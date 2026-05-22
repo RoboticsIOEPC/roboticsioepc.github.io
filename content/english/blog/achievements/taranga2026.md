@@ -9,5 +9,6 @@ author: "Dipika Chaudhary"
 tags: ["competition"]
 draft: false
 ---
-
-Robotics Association Nepal (RAN) organizes an annual event named 'YANTRA'. In year 2073 B.S., our club participated in YANTRA 5.0 and showed the great performance in the main event. 
+Victory achieved through innovation, skill, and collaboration! 
+Congratulations to Team Power Ranger for emerging as winners of the Hardware Hackathon at Taranga – The Wave of Technology. Your dedication, creativity, and teamwork have truly set you apart.
+Wishing you even greater milestones ahead.
