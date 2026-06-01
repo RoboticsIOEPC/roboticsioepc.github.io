@@ -1,17 +1,19 @@
 ---
-title: Ram Gautam
-designation: "Executive Member"
+title: "Ram Gautam"
+designation: "Coordinator"   
 email: 080bei032@ioepc.edu.np
-image: "/images/avatars/Ram Gautam.jpg"
-description: Executive Member
-weight: 5
+image: "/images/avatars/ram-gautam.png"
+description: "Robotics Club Coordinator"
+weight: 1                  
 social:
-  - name: facebook
-    icon: fa-brands fa-facebook
-    link: https://www.facebook.com/ram.gautam.998169
-
+#   - name: github
+#     icon: fa-brands fa-github
+#     link: https://github.com/your-username
   - name: linkedin
     icon: fa-brands fa-linkedin
-    link: https://www.linkedin.com/in/ram-gautam-8a4081313/
+    link: https://www.linkedin.com/in/ram-gautam-8a4081313?utm_source=share_via&utm_content=profile&utm_medium=member_android
+  - name: facebook
+    icon: fa-brands fa-facebook
+    link: https://www.facebook.com/ram.gautam.998169  
 ---
 
