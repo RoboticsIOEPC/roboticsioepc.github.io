@@ -10,7 +10,6 @@ tags: ["orientations"]
 draft: false
 ---
 
-< write your article here >  
 
 The Robotics Club successfully conducted its annual orientation program today. The event saw an overwhelming turnout of enthusiastic students eager to dive into the world of robotics, automation, and tech innovation.
 
