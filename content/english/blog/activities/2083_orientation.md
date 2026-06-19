@@ -23,4 +23,4 @@ We look forward to an amazing year of building, learning, and competing together
 
 Here are some glimpses and memorable moments captured during the orientation program:
 
-{{< gallery dir="images/blogs/orientation_2026/" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
+{{< gallery dir="images/gallery/orientation2026/" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
