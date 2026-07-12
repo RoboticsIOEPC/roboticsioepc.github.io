@@ -3,7 +3,7 @@ title: "PCB Designing and Etching Workshop"
 meta_title: "PCB Designing and Etching Workshop 2026"
 description: "A comprehensive hands-on workshop focused on custom PCB design with KiCAD, circuit routing, and the chemical etching process."
 date: 2026-07-12
-image: "images/blogs/2026_pcb_and_etching/pcb.jpg"
+image: "images/gallery/pcb_and_etching_2026/2026_pcb_and_etching/pcb.jpg"
 categories: ["Workshops"]
 author: "Manav"
 tags: ["workshops", "events"]
