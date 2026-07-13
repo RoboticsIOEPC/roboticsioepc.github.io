@@ -1,5 +1,5 @@
 ---
-title: "Himal Bhamdari"
+title: "Himal Bhandari"
 designation: "Executive Member"   
 email: 080bct034@ioepc.edu.np
 image: "/images/avatars/himal-bhandari.jpeg"
